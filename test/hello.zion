@@ -1,7 +1,7 @@
-
-
 print("Hello World!");
 
 def aFunction() {
-	return 11;
+	return "A given value";
 }
+
+print(aFunction());
